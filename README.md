@@ -2,6 +2,8 @@
 
 <br>
 
-<p align="end">
-  <a href="#-índice">⏭️</a>
+<p align="center">
+<!--   <a href="#-introduction.md">⏪️ Anterior</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+  <a href="introduction.md#-introdução">Introdução ⏩</a>
 </p>
