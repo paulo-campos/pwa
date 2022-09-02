@@ -1,10 +1,10 @@
 ## 👷 Service Worker
 
-O ciclo de vida de um Service Worker é completamente separado da sua página da web. Consiste nas seguintes fases:
+O ciclo de vida de um ServiceWorker, ou **SW**, é completamente separado da sua página da web. Consiste nas seguintes fases:
 
 
 ### Baixar
-É quando o navegador faz o download do arquivo `.js` que contém o ServiceWorker, e isso segue com o próprio registro do mesmo, dizendo ao navegador onde está o arquivo ServiceWorker.
+É quando o navegador faz o download do arquivo `.js` que contém o **SW**, e isso segue com o próprio registro do mesmo, dizendo ao navegador onde está o arquivo **SW**.
 
 ```
 if ('serviceWorker' in navigator) {
@@ -12,11 +12,17 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js')
       .then(
         (registration) => {}, // Success case
-        (registration) => {} // Error case
+        (error) => {} // Error case
       );
   });
 }
 ```
+
+O `register()` pode ser chamado em todo carregamento de página, o próprio navegador descobre se o **SW** já foi registrado e o manipula adequadamente.
+
+O local do arquivo do **SW**, nesse caso, está na raiz do domínio, com isso seu escopo será a origem, então esse **SW** receberá eventos de fetch, para tudo nesse domínio.
+
+Registrando o arquivo do **SW** em `/example/sw.js`, por exemplo , ele só verá eventos de fetch para páginas com a URL a partir de `/example/`, ex: `/example/page1/`.
 
 <br>
 
