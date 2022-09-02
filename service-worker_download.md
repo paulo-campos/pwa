@@ -1,6 +1,6 @@
-## 👷 Service Worker
+## 👷 Service Worker(**SW**)
 
-O ciclo de vida de um ServiceWorker, ou **SW**, é completamente separado da sua página da web. Consiste nas seguintes fases:
+O ciclo de vida de um **SW**, é completamente separado da sua página da web. Consiste nas seguintes fases:
 
 
 ### Baixar
@@ -29,7 +29,7 @@ Registrando o arquivo do **SW** em `/example/sw.js`, por exemplo , ele só verá
 <p align="center">
   <a href="how-it-works.md#%EF%B8%8F-como-funciona">⏪️ Como funciona</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="service-worker_instalation.md#-service-worker" target="_blank">Service Worker - Instalação ⏩</a>
+  <a href="service-worker_instalation.md#-service-worker">Service Worker - Instalação ⏩</a>
 </p>
 
 
