@@ -9,7 +9,9 @@ Uma vez ativado, o **SW** começa a controlar todas as páginas que estiverem no
 - Menipulando os eventos de busca e mensagem quando uma solicitação ou mensagem de rede é feita a partir da página
 - Terminado para economizar memória
 
-Aqui está como o ciclo de vida será semelhante:
+<p align="center">
+  <img width="70%" src="https://user-images.githubusercontent.com/10121394/188153727-c1c19d8e-16c2-47fe-a7ca-8bd3a0e954df.png" />
+</p>
 
 <br>
 
