@@ -14,5 +14,5 @@ Com essa combinação pode-se elevar a experiência do já usuário web, para um
 <p align="center">
   <a href="README.md">⏪️ Apresentação</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="introduction.md#-introdução">Introdução ⏩</a>
+  <a href="how-it-works.md#%EF%B8%8F-como-funciona">Como funciona ⏩</a>
 </p>
