@@ -17,4 +17,6 @@ Uma vez ativado, o **SW** começa a controlar todas as páginas que estiverem no
 
 <p align="center">
   <a href="service-worker_instalation.md#-service-worker">⏪️ Service Worker - Instalação</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://combinasom-develop.web.app/">Teoria pra @#$%ˆ&* ⏩</a>
 </p>
