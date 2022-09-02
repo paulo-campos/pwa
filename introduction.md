@@ -10,7 +10,7 @@ PWA ou Progressive WebApp é um modelo de desenvolvimento de software que transf
 Com essa combinação pode-se elevar a experiência do já usuário web, para uma imersão de aplicação sem a necessidade de forçá-lo ir atrás de instalar, mas trazendo a instalação até ele.
 
 <p align="center">
-  <img alt="Experto" src="https://user-images.githubusercontent.com/10121394/187801297-3855c0b9-f564-4ad9-9154-a4f69832c257.gif">
+  <img width="50%" alt="Experto" src="https://user-images.githubusercontent.com/10121394/187801297-3855c0b9-f564-4ad9-9154-a4f69832c257.gif">
 </p>
 
 <br>
