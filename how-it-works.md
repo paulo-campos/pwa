@@ -32,7 +32,7 @@ Com o service worker realizando a ponte entre as solicitações de rede e os res
 
 ### Responsividade
 
-Apesar de uma aplicação não ser responsiva não a impede de ser instalável, ela ser instalável sem ser responsiva é o mesmo:
+Uma aplicação não ser responsiva não a impede de ser instalável, mas ela ser instalável sem ser responsiva é o mesmo:
 
 <p align="center">
   <img alt="PWA - responsividade = Fuck shit" src="https://user-images.githubusercontent.com/10121394/188037030-f5b6a1c7-321d-4233-b83f-313573d38b2a.gif">
