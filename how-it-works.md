@@ -43,5 +43,5 @@ Apesar de uma aplicação não ser responsiva não a impede de ser instalável, 
 <p align="center">
   <a href="introduction.md#-introdução">⏪️ Introdução</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="how-it-works.md#%EF%B8%8F-como-funciona">Como funciona ⏩</a>
+  <a href="https://combinasom-develop.web.app/" target="_blank">Bora ver? ⏩</a>
 </p>
