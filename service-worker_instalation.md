@@ -15,7 +15,7 @@ Mas isso é importante apenas para a primeira visita à página. Visitas subseq�
 <br>
 
 <p align="center">
-  <a href="service-worker_download.md#-service-worker">⏪️Service Worker - Download ⏩</a>
+  <a href="service-worker_download.md#-service-workersw">⏪️Service Worker - Download ⏩</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="service-worker_activation.md#-service-worker">Service Worker - Ativação ⏩</a>
 </p>

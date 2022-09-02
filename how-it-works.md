@@ -43,5 +43,5 @@ Apesar de uma aplicação não ser responsiva não a impede de ser instalável, 
 <p align="center">
   <a href="introduction.md#-introdução">⏪️ Introdução</a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="service-worker_download.md#-service-worker">Service Worker - Download ⏩</a>
+  <a href="service-worker_download.md#-service-workersw">Service Worker - Download ⏩</a>
 </p>
