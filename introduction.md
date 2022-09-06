@@ -1,6 +1,6 @@
 ## ☕ Introdução
 
-PWA ou Progressive WebApp é um modelo de desenvolvimento de software que transforma páginas de navegadores em aplicações usando o melhor dos 2 mundos:
+**PWA** ou **Progressive Web App** é um modelo de desenvolvimento de software que transforma páginas de navegadores em aplicações usando o melhor dos 2 mundos:
 
 | Plataforma  | Vantagens                    |
 |-------------|:----------------------------:|
